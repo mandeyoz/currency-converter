@@ -17,7 +17,9 @@
 </head>
 <body>
     <div class="container">
+    <br>
     <h1>Kalkulator walut</h1>
+    	<br>
         <form class="form-inline">
             <div class="form-group">
                 <input type="text" class="form-control" name="amount" placeholder="Wpisz kwote">
